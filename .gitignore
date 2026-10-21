@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+.pytest_cache/
+.idea/
+
+data/
+indexes/
+logs/
+data/browsecomp_plus_decrypted.jsonl
+output/evaluations/
+output/retrieval_evaluations/
