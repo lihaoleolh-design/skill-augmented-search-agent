@@ -12,3 +12,9 @@ logs/
 data/browsecomp_plus_decrypted.jsonl
 output/evaluations/
 output/retrieval_evaluations/
+output/trajectories/
+output/qdrant_snapshots/
+
+*.snapshot
+*.sqlite-shm
+*.sqlite-wal
